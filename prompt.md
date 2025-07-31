@@ -115,5 +115,3 @@ Requirements:
 
 Please create the application in a folder called "4-Implementation/fullstack". Use this exact folder name to maintain proper sorting order.
 ```
-
-
